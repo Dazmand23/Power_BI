@@ -54,4 +54,6 @@
 ## 📧 Контакты
 Если вам интересно сотрудничество или есть вопросы, пишите:  
 ✉️ **dramirchi777@gmail.com**  
-💼 [LinkedIn](www.linkedin.com/in/bekbassynov) | 🖥 [GitHub]([https://github.com/](https://github.com/Dazmand23))
+💼 [LinkedIn](www.linkedin.com/in/bekbassynov) | 🖥 [GitHub](([https://github.com/](https://github.com/Dazmand23))
+
+
