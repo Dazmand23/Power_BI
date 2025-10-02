@@ -21,7 +21,8 @@
 - Сравнение по категориям
 - Визуализация изменении с прошлым годом
 - 📸 Превью:  
-  ![Sales Report](./Project 1/Зарплата по городам.pdf)
+  [![Открыть отчёт в Power BI](https://img.shields.io/badge/Открыть_отчёт-Power%20BI-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMjRlYTdlNjEtMDk0MS00MTI4LWE5MGItMmFhYzA3NDg1MTEyIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9)
+
 
 ---
 
