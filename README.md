@@ -20,8 +20,13 @@
 - Функциональный фильтр выбора города
 - Сравнение по категориям
 - Визуализация изменении с прошлым годом
-- 📸 Превью:  
-  [![Открыть отчёт в Power BI](https://img.shields.io/badge/Открыть_отчёт-Power%20BI-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMjRlYTdlNjEtMDk0MS00MTI4LWE5MGItMmFhYzA3NDg1MTEyIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9)
+
+[![Открыть отчёт в Power BI](https://img.shields.io/badge/Открыть_отчёт-Power%20BI-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMjRlYTdlNjEtMDk0MS00MTI4LWE5MGItMmFhYzA3NDg1MTEyIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9)
+
+
+  [![Зарплата по городам](./Project_1/preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMjRlYTdlNjEtMDk0MS00MTI4LWE5MGItMmFhYzA3NDg1MTEyIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9)
+
+
 
 
 ---
