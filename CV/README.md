@@ -1,5 +1,5 @@
 # Damir Bekbassynov  
-### Data & BI Analyst | Financial Analytics | KPI Architecture
+### Data & BI Analyst | Financial Analytics
 
 Astana, Kazakhstan  
 Email: damirxx@icloud.com  
