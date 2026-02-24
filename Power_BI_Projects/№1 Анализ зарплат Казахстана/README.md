@@ -3,7 +3,7 @@
 
 [🔗 Открыть в Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMjRlYTdlNjEtMDk0MS00MTI4LWE5MGItMmFhYzA3NDg1MTEyIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9)
 
-![Preview](./Work_Files/pic.png)
+   ![Preview](Work_Files/pic.png)
 
 ---
 
