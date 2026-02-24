@@ -1,4 +1,4 @@
-<h1 align="center">Damir | Data & BI Analyst</h1>
+<h1 align="center">Data & BI Analyst</h1>
 
 <p align="center">
 <b>Data & BI аналитик с финансовым бэкграундом</b><br>
