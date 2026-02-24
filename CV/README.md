@@ -4,9 +4,10 @@
 Astana, Kazakhstan  
 Email: damirxx@icloud.com  
 Telegram: @daddydamir  
-LinkedIn: (добавь ссылку)  
+Телефон: +7 747 898 24 74  
+💼 <a href="https://www.linkedin.com/in/bekbassynov" target="_blank">LinkedIn</a></li>
+🖥 <a href="https://github.com/Dazmand23" target="_blank">GitHub</a></li>
 
----
 
 ## 🧠 Summary
 
