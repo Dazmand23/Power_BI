@@ -1,57 +1,75 @@
-# 📊 Power BI Projects
+<h1 align="center">Damir | Data & BI Analyst</h1>
 
-Добро пожаловать в раздел **Power BI**!  
-Здесь собраны мои проекты по аналитике и визуализации данных в Power BI.  
+<p align="center">
+<b>Data & BI аналитик с финансовым бэкграундом</b><br>
+Проектирую модели данных и KPI, автоматизирую отчётность и строю управленческую аналитику<br>
+SQL • Power BI • Python
+</p>
 
----
+<hr>
 
-## 🚀 Возможности Power BI
-- Интерактивные дашборды  
-- Автоматизация отчётности  
-- Визуализация больших объёмов данных  
-- Интеграция с Excel, SQL и 1С  
-- Работа с DAX и Power Query  
+<h2>📊 Power BI Projects</h2>
 
----
+<h3>1️⃣ Project 1</h3>
+<ul>
+<li>Бизнес-дашборд с ключевыми KPI</li>
+<li>План-факт анализ</li>
+<li>Визуализация управленческих метрик</li>
+<li><b>Инструменты:</b> SQL, Power BI, DAX</li>
+</ul>
 
-## 📂 Проекты
+<h3>2️⃣ Project 2</h3>
+<ul>
+<li>Анализ продаж и маржинальности</li>
+<li>Выявление отклонений и точек роста</li>
+<li><b>Инструменты:</b> SQL, Power BI</li>
+</ul>
 
-### 1️⃣ [Отчёт по средней зарплате по городам](./Project_1/Зарплата_по_городам.pdf)
-- Функциональный фильтр выбора города
-- Сравнение по категориям
-- Визуализация изменении с прошлым годом
+<hr>
 
-[![Открыть отчёт в Power BI](https://img.shields.io/badge/Открыть_отчёт-Power%20BI-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMjRlYTdlNjEtMDk0MS00MTI4LWE5MGItMmFhYzA3NDg1MTEyIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9)
+<h2>🐍 Python Projects</h2>
 
+<h3>1️⃣ Project 1</h3>
+<ul>
+<li>Exploratory Data Analysis</li>
+<li>Очистка и трансформация данных</li>
+<li><b>Инструменты:</b> Python, pandas, matplotlib</li>
+</ul>
 
-  [![Зарплата по городам](./Project_1/preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMjRlYTdlNjEtMDk0MS00MTI4LWE5MGItMmFhYzA3NDg1MTEyIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9)
+<h3>2️⃣ Project 2</h3>
+<ul>
+<li>Прогнозирование показателей</li>
+<li>Оценка качества модели</li>
+<li><b>Инструменты:</b> Python, scikit-learn</li>
+</ul>
 
+<hr>
 
+<h2>⚙️ Tech Stack</h2>
 
+<p>
+SQL • Power BI • DAX • Python • pandas • scikit-learn • Excel • Power Query
+</p>
 
----
+<hr>
 
-### 2️⃣ [Будущий проект 2](./Financial_Dashboard)
+<h2>📌 Focus</h2>
 
+<ul>
+<li>Архитектура данных</li>
+<li>Система KPI</li>
+<li>Управленческая аналитика</li>
+<li>Влияние аналитики на финансовый результат</li>
+</ul>
 
----
+<hr>
 
-### 3️⃣ [Будущий проект 3](./HR_Analytics)
+<h2>📬 Contact</h2>
 
-
----
-
-## ⚙️ Технологии
-- **Power BI Desktop / Service**  
-- **Power Query**  
-- **DAX**  
-- **Excel / SQL / 1С**  
-
----
-
-## 📧 Контакты
-Если вам интересно сотрудничество или есть вопросы, пишите:  
-✉️ **dramirchi777@gmail.com**  
-💼 [LinkedIn](www.linkedin.com/in/bekbassynov) | 🖥 [GitHub](([https://github.com/](https://github.com/Dazmand23))
+<ul>
+  ✉️ <b>dramirchi777@gmail.com</b></li>
+  💼 <a href="https://www.linkedin.com/in/bekbassynov" target="_blank">LinkedIn</a></li>
+  🖥 <a href="https://github.com/Dazmand23" target="_blank">GitHub</a></li>
+</ul>
 
 
