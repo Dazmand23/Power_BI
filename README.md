@@ -47,7 +47,7 @@ SQL • Power BI • Python
 <h2>⚙️ Tech Stack</h2>
 
 <p>
-SQL • Power BI • DAX • Python • pandas • nympy • Excel • Power Query
+SQL • Power BI • DAX • Python • pandas • numpy • Excel • Power Query • 1С • Looker Studio • PostgreSQL
 </p>
 
 <hr>
@@ -65,10 +65,12 @@ SQL • Power BI • DAX • Python • pandas • nympy • Excel • Power Que
 
 <h2>📬 Contact</h2>
 
-<ul>
-  ✉️ <b>dramirchi777@gmail.com</b></li>
-  💼 <a href="https://www.linkedin.com/in/bekbassynov" target="_blank">LinkedIn</a></li>
-  🖥 <a href="https://github.com/Dazmand23" target="_blank">GitHub</a></li>
-</ul>
+<p>
+✉️ <b>dramirchi777@gmail.com</b> | 
+💼 <a href="https://www.linkedin.com/in/bekbassynov" target="_blank">LinkedIn</a> | 
+🖥 <a href="https://github.com/Dazmand23" target="_blank">GitHub</a> | 
+📩 <a href="https://t.me/daddydamir" target="_blank">Telegram</a> | 
+📞 <b>+7 747 898 24 74</b>
+</p>
 
 
