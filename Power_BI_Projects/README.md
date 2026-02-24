@@ -4,8 +4,7 @@
 
 ---
 
-## 1️⃣ Отчёт по средней заработной плате по отраслям  
-[📄 PDF-версия отчёта](./Project_1/Зарплата_по_городам.pdf)  
+## 1️⃣ Отчёт по средней заработной плате по отраслям   
 [🔗 Открыть в Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMjRlYTdlNjEtMDk0MS00MTI4LWE5MGItMmFhYzA3NDg1MTEyIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9)
 
 [![Preview](./Отчет_зарплата/preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMjRlYTdlNjEtMDk0MS00MTI4LWE5MGItMmFhYzA3NDg1MTEyIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9)
